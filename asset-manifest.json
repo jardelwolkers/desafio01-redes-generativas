@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/desafio01-redes-generativas/static/css/main.f9b3e347.css",
-    "main.js": "/desafio01-redes-generativas/static/js/main.a1246a55.js",
+    "main.js": "/desafio01-redes-generativas/static/js/main.b38e2385.js",
     "static/js/787.28cb0dcd.chunk.js": "/desafio01-redes-generativas/static/js/787.28cb0dcd.chunk.js",
     "static/media/image7.webp": "/desafio01-redes-generativas/static/media/image7.0923191cbd6add3cd057.webp",
     "index.html": "/desafio01-redes-generativas/index.html",
     "main.f9b3e347.css.map": "/desafio01-redes-generativas/static/css/main.f9b3e347.css.map",
-    "main.a1246a55.js.map": "/desafio01-redes-generativas/static/js/main.a1246a55.js.map",
+    "main.b38e2385.js.map": "/desafio01-redes-generativas/static/js/main.b38e2385.js.map",
     "787.28cb0dcd.chunk.js.map": "/desafio01-redes-generativas/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9b3e347.css",
-    "static/js/main.a1246a55.js"
+    "static/js/main.b38e2385.js"
   ]
 }
