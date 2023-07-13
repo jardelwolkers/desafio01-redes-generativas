@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fc2e17b.css",
-    "main.js": "/static/js/main.a37a2c97.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/image7.webp": "/static/media/image7.0923191cbd6add3cd057.webp",
-    "index.html": "/index.html",
-    "main.7fc2e17b.css.map": "/static/css/main.7fc2e17b.css.map",
-    "main.a37a2c97.js.map": "/static/js/main.a37a2c97.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/desafio01-redes-generativas/static/css/main.f9b3e347.css",
+    "main.js": "/desafio01-redes-generativas/static/js/main.a1246a55.js",
+    "static/js/787.28cb0dcd.chunk.js": "/desafio01-redes-generativas/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image7.webp": "/desafio01-redes-generativas/static/media/image7.0923191cbd6add3cd057.webp",
+    "index.html": "/desafio01-redes-generativas/index.html",
+    "main.f9b3e347.css.map": "/desafio01-redes-generativas/static/css/main.f9b3e347.css.map",
+    "main.a1246a55.js.map": "/desafio01-redes-generativas/static/js/main.a1246a55.js.map",
+    "787.28cb0dcd.chunk.js.map": "/desafio01-redes-generativas/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fc2e17b.css",
-    "static/js/main.a37a2c97.js"
+    "static/css/main.f9b3e347.css",
+    "static/js/main.a1246a55.js"
   ]
 }
