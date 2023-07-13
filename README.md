@@ -3,6 +3,6 @@
 ## email: jardelwolkers@gmail.com
 
 Para executar na máquina local, navegue até a pasta `my-app` e execute o comando `npm install` e
-depois `npm star`. É necessário ter instalado o runtime node js.
+depois `npm start`. É necessário ter instalado o runtime node js.
 
 A aplicação será inicializada na porta 3000.
