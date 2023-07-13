@@ -56,7 +56,7 @@ const ProductPage = () => {
       <div className="image-list">
         {products.map((product, index) => (
           <div className="product" key={index}>
-            <img src={`/images/${product.image}`} alt={`Product ${index + 1}`} />
+            <img src={`${process.env.PUBLIC_URL}/images/${product.image}`} alt={`Product ${index + 1}`} />
             <div className="product-details">
               <p>{product.description}</p>
               <p>{product.price}</p>
@@ -102,7 +102,7 @@ const ForgotPasswordPage = () => {
 // App component
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/login" element={<LoginPage />} />
         <Route path="/products" element={<ProductPage />} />
