@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/css/main.532e5bdc.css",
+    "main.js": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/js/main.35ec3951.js",
+    "static/js/787.28cb0dcd.chunk.js": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image7.webp": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/media/image7.0923191cbd6add3cd057.webp",
+    "index.html": "https://github.com/jardelwolkers/desafio01-redes-generativas/index.html",
+    "main.532e5bdc.css.map": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/css/main.532e5bdc.css.map",
+    "main.35ec3951.js.map": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/js/main.35ec3951.js.map",
+    "787.28cb0dcd.chunk.js.map": "https://github.com/jardelwolkers/desafio01-redes-generativas/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.532e5bdc.css",
+    "static/js/main.35ec3951.js"
+  ]
+}
